@@ -58,7 +58,7 @@ Through personal projects and rigorous practice, I continuously refine my expert
 
 - [Unique Driving School System](https://github.com/LuckyMaley/UniqueDrivingSchoolManagementSystem) - A system used for booking customers driving lessons.
 
-**[click here](https://github.com/LuckyMaley) to see more of my projects**
+**[click here](https://github.com/LuckyMaley?tab=repositories) to see more of my projects**
 
 ## Contact Me
 
