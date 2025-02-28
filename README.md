@@ -1,7 +1,5 @@
 # Hi, I'm Langelihle! 👋
 
-## About Me
-
 I am a University of KwaZulu-Natal graduate with a master’s degree in Information Systems and Technology. As a passionate and skilled software engineer, I specialize in:
 
 **Backend Development**: C#, Java, MVC, API Development & Testing
