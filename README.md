@@ -39,16 +39,15 @@ Through personal projects and rigorous practice, I continuously refine my expert
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat&logo=postman&logoColor=white)
 
-## GitHub Stats
+## Achievements  
 
-![Langelihle's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuckyMaley&show_icons=true)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=LuckyMaley&margin-w=15&no-frame=true)  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuckyMaley)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=LuckyMaley&show_icons=true)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LuckyMaley)
- 
-## Achievements  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=LuckyMaley&margin-w=15&no-frame=true)  
 
 ## Featured Projects
 
