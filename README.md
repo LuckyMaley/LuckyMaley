@@ -1,6 +1,6 @@
 # Hi, I'm Langelihle! 👋
 
-I am a passionate and skilled software engineer, I specialize in:
+I am a passionate and versatile software engineer with experience across multiple programming languages and development environments. Passionate about emerging technologies, I continuously seek opportunities to expand my skill set and stay ahead in the ever-evolving tech landscape. With a keen eye for detail and a rapid learning ability, I thrive in problem-solving, optimizing code efficiency, and building innovative solutions. I specialize in:
 
 **Backend Development**: C#, Java, MVC, API Development & Testing
 
