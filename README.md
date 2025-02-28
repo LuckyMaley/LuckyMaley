@@ -45,7 +45,7 @@ Through personal projects and rigorous practice, I continuously refine my expert
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuckyMaley)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=LuckyMaley&show_icons=true)
+![Langelihle Mhlongo's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuckyMaley&show_icons=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LuckyMaley)
 
