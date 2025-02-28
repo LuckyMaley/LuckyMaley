@@ -1,4 +1,4 @@
-# Hi, I'm Langelihle!
+# Hi, I'm Langelihle! 👋
 
 ## About Me
 
@@ -59,10 +59,11 @@ Through personal projects and rigorous practice, I continuously refine my expert
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuckyMaley&layout=compact)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LuckyMaley)
+ 
+## Achievements  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=LuckyMaley&margin-w=15&no-frame=true)  
 
-## Projects
-
-### Featured Projects
+## Featured Projects
 
 - [Angular e-Commerce System](https://github.com/LuckyMaley/Angular-Full-Stack-System) - An Angular eCommerce system that offers customers quality clothes at low cost.
 
