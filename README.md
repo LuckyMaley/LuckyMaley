@@ -61,6 +61,6 @@ Through personal projects and rigorous practice, I continuously refine my expert
 
 ## Contact Me
 
-LinkedIn: [Click here](https://www.linkedin.com/in/langelihle-mhlongo-6702601b9/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/LuckyMaley) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/langelihle-mhlongo-6702601b9/)
 
 
