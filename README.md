@@ -31,7 +31,7 @@ Through personal projects and rigorous practice, I continuously refine my expert
 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23239120.svg?style=flat&logo=PostgreSQL&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%233178C6.svg?style=flat&logo=PostgreSQL&logoColor=white)
 
 ### Tools & Platforms:
 
